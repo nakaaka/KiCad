@@ -1,0 +1,13 @@
+*.lck
+fp-info-cache
+production/
+*.step
+!基板固定具/*.step
+CANバスハブ-backups/
+GPIO基板-backups/
+imu基板-backups/
+ぱわこ-backups/
+ミニドライバ-backups/
+よしはる-backups/
+ロボマス制御-backups/
+弱電電源管理-backups/

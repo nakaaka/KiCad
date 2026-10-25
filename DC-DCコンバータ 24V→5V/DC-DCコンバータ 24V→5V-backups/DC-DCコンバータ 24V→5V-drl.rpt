@@ -1,0 +1,30 @@
+Drill report for DC-DCコンバータ 24V→5V.kicad_pcb
+Created on 2026-05-06T17:55:27+0900
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'DC-DCコンバータ 24V→5V-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.500mm  0.0197"  (32 holes)
+    T2  0.600mm  0.0236"  (2 holes)  (with 2 slots)
+    T3  0.800mm  0.0315"  (4 holes)
+    T4  0.950mm  0.0374"  (2 holes)
+    T5  1.000mm  0.0394"  (2 holes)
+    T6  1.200mm  0.0472"  (9 holes)
+    T7  1.600mm  0.0630"  (2 holes)
+    T8  2.700mm  0.1063"  (2 holes)
+    T9  3.200mm  0.1260"  (4 holes)
+
+    Total plated holes count 59
+
+
+Drill file 'DC-DCコンバータ 24V→5V-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
